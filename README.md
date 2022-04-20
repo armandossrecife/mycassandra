@@ -5,3 +5,5 @@ You can access [Analysis of Cassandra](https://colab.research.google.com/drive/1
 
 You can access [Analysis of Metrics Behavior](https://colab.research.google.com/drive/1vtqtkGrj2UlPkucDLQfon_tBHG4lyrP7?usp=sharing) to get details about how each analyzed metrics behavior over time.
 
+You can access [Cassandra Treemap Repository](https://giselesousar.github.io/cassandra-treemap/) to get treemap visualization for each variable analysed.
+
