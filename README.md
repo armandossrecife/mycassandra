@@ -8,7 +8,7 @@ We used the [Arcan](https://essere.disco.unimib.it/wiki/arcan/#:~:text=Arcan%20i
 
 We loaded these datasets and performed an exploratory data analysis, using various Python libraries and Data Science techniques to identify patterns that could characterize ATD in source code repositories.
 
-We calculated the following metrics to aid our analysis: *cyclomatic complexity*, *file occurrence in commits*, and *accumulated modified LOCs* over time to analyze the source code's behavior related to the maintenance effort. Besides, we used the following Archictural Smells to identify ATD: *cyclic dependency* and *hub-like dependency*.
+We calculated the following metrics to aid our analysis: *cyclomatic complexity*, *file occurrence in commits*, and *accumulated modified LOCs* over time to analyze the source code's behavior related to the maintenance effort. Besides, we used the following Archictural Smells to select files that can indicate architectural issues: *cyclic dependency* and *hub-like dependency*.
 
 You can access [Analysis of Cassandra](https://colab.research.google.com/drive/1vV2Yg41eZKj7Ws--B9lAHTeyh___m2mj?usp=sharing) to get data collection, analysis, and case study results.
 
