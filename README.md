@@ -14,6 +14,8 @@ You can access [Analysis of Cassandra](https://colab.research.google.com/drive/1
 
 You can access [Analysis of Metrics Behavior](https://colab.research.google.com/drive/1vtqtkGrj2UlPkucDLQfon_tBHG4lyrP7?usp=sharing) to get details about how each analyzed metrics behavior over time.
 
+You can access [Critical files and dependents with co-change](https://colab.research.google.com/drive/18U5DgWDyrPgglOCXe0fwAYwAZFIa-gP8?usp=sharing) to get details about critical files and impacted files with co-chage.
+
 You can access [Cassandra Treemap Repository](https://giselesousar.github.io/cassandra-treemap/) to get treemap visualization for each variable analysed.
 
 [[1]](https://dl.acm.org/doi/abs/10.1145/2851613.2851963) Fontana, F.A., Pigazzini, I., Roveda, R., Tamburri, D., Zanoni, M. and Di Nitto, E., 2017, April. Arcan: A tool for architectural smells detection. In 2017 IEEE International Conference on Software Architecture Workshops (ICSAW) (pp. 282-285). IEEE.
