@@ -1,5 +1,9 @@
 # Analysis of Apache Cassandra to Identify items that can indicate ATD.
 
+[Proposed Approach](https://github.com/mining-software-repositories/cassandra/blob/main/data/SummaryofSysRepoAnalysis.png)
+
+[Steps of Approach](https://github.com/mining-software-repositories/cassandra/blob/main/data/AnalysisCassandraRepositoryFlow.png)
+
 We analyzed all commits from 2015 to 2021 related to versions from 3.0.0 to 3.11.11, encompassing six years of maintenance and evolution of the [Apache Cassandra](https://github.com/apache/cassandra) project. 
 
 We saved all commits and all modified files using the [Pydriller](https://github.com/ishepard/pydriller) tool.
