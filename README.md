@@ -18,11 +18,11 @@ We loaded these datasets and performed an exploratory data analysis, using vario
 
 We calculated the following metrics to aid our analysis: *cyclomatic complexity*, *file occurrence in commits*, and *accumulated modified LOCs* over time to analyze the source code's behavior related to the maintenance effort. Besides, we used the following Archictural Smells to select files that can indicate architectural issues: *cyclic dependency* and *hub-like dependency*.
 
-You can access [Analysis of Cassandra](https://colab.research.google.com/drive/1vV2Yg41eZKj7Ws--B9lAHTeyh___m2mj?usp=sharing) to get data collection, analysis, and case study results.
+You can access [Analysis of Cassandra](https://github.com/armandossrecife/mycassandra/blob/main/scripts/Analysis_of_Cassandra_Repository_DB%2C_Dataframes%2C_Architectural_Smells_e_RQs.ipynb) to get data collection, analysis, and case study results.
 
-You can access [Analysis of Metrics Behavior](https://colab.research.google.com/drive/1vtqtkGrj2UlPkucDLQfon_tBHG4lyrP7?usp=sharing) to get details about how each analyzed metrics behavior over time.
+You can access [Analysis of Metrics Behavior](https://github.com/armandossrecife/mycassandra/blob/main/scripts/Analysis_of_the_behavior_of_files_with_ATD_of_calculated_metrics.ipynb) to get details about how each analyzed metrics behavior over time.
 
-You can access [Critical files and dependents with co-change](https://colab.research.google.com/drive/18U5DgWDyrPgglOCXe0fwAYwAZFIa-gP8?usp=sharing) to get details about critical files and impacted files with co-chage.
+You can access [Critical files and dependents with co-change](https://github.com/armandossrecife/mycassandra/blob/main/scripts/Graph_of_Critical_Files_and_Dependents.ipynb) to get details about critical files and impacted files with co-chage.
 
 You can access [Cassandra Treemap Repository](https://github.com/armandossrecife/mycassandra/blob/main/data/treemaps.md) to get treemap visualization for each variable analysed.
 
